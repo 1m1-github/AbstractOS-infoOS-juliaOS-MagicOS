@@ -1,4 +1,4 @@
-broadcast to those i talked with waiting for this: i will start on it in a few months. i went on a detour with other things.
+broadcast to those i talked with waiting for this: i will start on it in a few months. life happened.
 
 # AbstractOS-infoOS-juliaOS-MagicOS-HumanOS
 next gen OS: speak to your OS and it will do ... anything
