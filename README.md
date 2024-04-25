@@ -1,3 +1,5 @@
+broadcast to those i talked with waiting for this: i will start on it in a few months. i went on a detour with other things.
+
 # AbstractOS-infoOS-juliaOS-MagicOS-HumanOS
 next gen OS: speak to your OS and it will do ... anything
 
