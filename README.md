@@ -1,6 +1,6 @@
 this project will be developed as part of the larger project: https://github.com/1m1-github/1m1
 
-# AbstractOS-infoOS-juliaOS-MagicOS-HumanOS
+# AbstractOS-infoOS-juliaOS-MagicOS-HumanOS-EngineerOS
 next gen OS: speak to your OS and it will do ... anything
 
 an OS that learns together with a human...to become arbitrarily complex
