@@ -1,4 +1,4 @@
-broadcast to those i talked with waiting for this: i will start on it in a few months. life happened.
+this project will be developed as part of the larger project: https://github.com/1m1-github/1m1
 
 # AbstractOS-infoOS-juliaOS-MagicOS-HumanOS
 next gen OS: speak to your OS and it will do ... anything
